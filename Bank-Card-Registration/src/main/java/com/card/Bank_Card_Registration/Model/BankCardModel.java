@@ -6,7 +6,6 @@ public class BankCardModel {
     private long cardNumber;
     private int cvv;
     private int pin;
-    private LocalDate expiryDate;
     private String holderName;
 
     public BankCardModel() {
